@@ -1,7 +1,7 @@
 # Passive-None-Line-of-Sight-Recognition
 
 # About
-Code for the paper 'Passive None-Line-of-Sight Recognition: Accurate but Fragile'.<br>
+Code for the paper 'Accurate but Fragile Passive None-Line-of-Sight Recognition'.<br>
 Implementation is done in Pytorch 1.1 and runs with 3.6. This repository contains implementation code for CNN NLOS Recognition and using white-box attacks to verify its robustness.<br>
 Paper: [地址]<br>
 Prepare dataset<br>
