@@ -20,4 +20,5 @@ urls = [<br>
 Assumption that the prior information of the setting (supplementary information, Table S2) has known, then refer to https://github.com/Computational-Periscopy/Ordinary-Camera Ordinary-Camera/Functions/simulate_A.py to compute light transport matrix A.<br>
 2. How to get reconstruction data<br>
 Assume that camera measurement have obtained, refer to https://github.com/Computational-Periscopy/Ordinary-Camera  script 'fig4_column_c.m', then you can got reconstruction data.<br>
-Note that: You should modify the parameter settings according to your experimental system.
+Note that: You should modify the parameter settings according to your experimental system.<br>
+If you have any questions about the reproduction of the article, please contact Yaqin Zhang. E-mail number: 493834755@qq.com or zhangyaqin202102@163.com.
