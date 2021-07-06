@@ -5,7 +5,7 @@ Code for the paper 'Accurate but Fragile Passive None-Line-of-Sight Recognition'
 Implementation is done in Pytorch 1.1 and runs with 3.6. This repository contains implementation code for CNN NLOS Recognition and using white-box attacks to verify its robustness.<br>
 Paper: [地址]<br>
 Data availability：<br>
-The datasets generated during and/or analyzed during the current study are available at https://pan.baidu.com/s/19yHezJGKZxXqU0ygt5Tlgw the password of “iy7d”.
+The datasets generated during and/or analyzed during the current study are available at https://pan.baidu.com/s/19yHezJGKZxXqU0ygt5Tlgw the password of “iy7d”.<br>
 Prepare dataset<br>
 The files of the data folder are used to reproducing results in the manuscript (and its supplementary information).<br>
 Here we demonstrate how to prepare data for NLOS Recognition.<br>
